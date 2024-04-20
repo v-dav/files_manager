@@ -4,6 +4,10 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green.svg)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-Latest-red.svg)](https://redis.io/)
 
+<p align="center">
+<img src="https://github.com/v-dav/files_manager/assets/115344057/99e661b4-21a6-407b-a812-0b1cff3b6847">  
+</p>
+
 ## 🧐 Project Description
 
 The File Manager project serves as a culmination of various back-end technologies and concepts learned recently. It encompasses authentication, Node.js, MongoDB, Redis, pagination, and background processing to create a simple yet robust platform for managing files.
